@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946550510651",
+    "project_id": "e-wonder",
+    "storage_bucket": "e-wonder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946550510651:android:a7586f20307589bcd3781e",
+        "android_client_info": {
+          "package_name": "com.ewondercourse.ewonderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946550510651-niu7slajmd5g8o5njcnmmqm8uth7nrrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvRYBcxOq101owr2U9CwWHzH-MOeKipbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946550510651-niu7slajmd5g8o5njcnmmqm8uth7nrrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
